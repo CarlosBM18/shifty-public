@@ -9,7 +9,7 @@ title: Terms of Use
 
 **1. Acceptance of Terms**
 
-By accessing or using the Shifty mobile application (the "App"), you ("you" or "User") agree to be bound by these Terms of Use ("Terms") and our Privacy Policy. If you do not agree to these Terms, you may not access or use the App.  The App is owned and operated by [Your Legal Company Name, if applicable, or Your Name] ("we," "us," or "our"), located in Spain.
+By accessing or using the Shifty mobile application (the "App"), you ("you" or "User") agree to be bound by these Terms of Use ("Terms") and our [Privacy Policy](PrivacyPolicy.md). If you do not agree to these Terms, you may not access or use the App.  The App is owned and operated by [Your Legal Company Name, if applicable, or Your Name] ("we," "us," or "our"), located in Spain.
 
 **2. Eligibility**
 

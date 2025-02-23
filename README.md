@@ -5,3 +5,4 @@ This repository contains the documentation and legal documents for the Shifty mo
 ## Available Documents
 
 - [Terms of Use](docs/TermsOfUse.md)
+- [Privacy Policy](docs/PrivacyPolicy.md)
