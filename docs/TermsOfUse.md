@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Use
+---
+
 **Terms of Use**
 
 **Last Updated:** [Date - February 23, 2025]
